@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>java-7</module>
+        <module>java-8</module>
     </modules>
 
     <properties>
